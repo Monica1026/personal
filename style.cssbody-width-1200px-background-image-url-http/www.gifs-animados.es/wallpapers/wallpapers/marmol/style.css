@@ -1,0 +1,65 @@
+body{
+  width: 1200px;
+  background-image: url("http://www.gifs-animados.es/wallpapers/wallpapers/marmol/wallpaper-marmol-5766977.jpg")
+}
+a{
+  color:red;
+}
+header{
+
+  font-size: 50px;
+  color: "black";
+  text-align: center;
+}
+nav{
+  margin: auto;
+  float: left;
+  width: 200px;
+  overflow: auto;
+  color: black;
+  font-size: 20px;
+
+}
+article{
+  margin: auto;
+  float:right;
+  height: 600px;
+  width: 900px;
+  overflow: auto;
+  font-size: 20px;
+
+  text-align: justify;
+
+}
+.segundo{
+  border-top: 1px;
+  width: 1200px;
+  overflow: auto;
+  margin: 20px 0;
+}
+
+.tesla{
+  width: 380px;
+  float: left;
+  border-right: 1px solid gray;
+  padding: 5px;
+}
+
+.unicornio{
+  width: 378px;
+  float: left;
+  border-right: 1px solid gray;
+  padding: 5px;
+}
+.lg{
+  width: 380px;
+  float: left;
+  border-right: 1px solid gray;
+  padding: 5px;
+}
+aside {
+    width: 380px;
+    overflow: auto;
+    float: right;
+    padding: 5px;
+}
